@@ -1,8 +1,7 @@
 {
-  "variants" : {
-    "" : {
-
-      "model" : "firstmod:block/sapphire_block"
+  "variants": {
+    "": {
+      "model": "firstmod:block/sapphire_block"
     }
   }
 }
